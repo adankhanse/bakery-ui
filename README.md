@@ -31,5 +31,3 @@ https://adankhanse.github.io/mehrmahs-bakers/
 **Adan Khan**
 
 GitHub: https://github.com/adankhanse
-
-⭐ If you like this project, consider giving it a star!
