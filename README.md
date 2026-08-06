@@ -24,7 +24,7 @@ A modern and responsive bakery website built using **HTML, CSS, JavaScript, and 
 
 ## 🚀 Live Demo
 
-https://adankhanse.github.io/mehrmahs-bakers/
+https://adankhanse.github.io/bakery-ui/
 
 ## 👨‍💻 Author
 
